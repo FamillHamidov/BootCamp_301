@@ -1,0 +1,9 @@
+C:\Users\Dell\source\repos\C#_BootCamp_301\C#_BootCamp_301_PresentationLayer\bin\Debug\C#_BootCamp_301_PresentationLayer.exe.config
+C:\Users\Dell\source\repos\C#_BootCamp_301\C#_BootCamp_301_PresentationLayer\bin\Debug\C#_BootCamp_301_PresentationLayer.exe
+C:\Users\Dell\source\repos\C#_BootCamp_301\C#_BootCamp_301_PresentationLayer\bin\Debug\C#_BootCamp_301_PresentationLayer.pdb
+C:\Users\Dell\source\repos\C#_BootCamp_301\C#_BootCamp_301_PresentationLayer\obj\Debug\C#_BootCamp_301_PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\C#_BootCamp_301\C#_BootCamp_301_PresentationLayer\obj\Debug\C__BootCamp_301_PresentationLayer.Properties.Resources.resources
+C:\Users\Dell\source\repos\C#_BootCamp_301\C#_BootCamp_301_PresentationLayer\obj\Debug\C#_BootCamp_301_PresentationLayer.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\C#_BootCamp_301\C#_BootCamp_301_PresentationLayer\obj\Debug\C#_BootCamp_301_PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\C#_BootCamp_301\C#_BootCamp_301_PresentationLayer\obj\Debug\C#_BootCamp_301_PresentationLayer.exe
+C:\Users\Dell\source\repos\C#_BootCamp_301\C#_BootCamp_301_PresentationLayer\obj\Debug\C#_BootCamp_301_PresentationLayer.pdb
