@@ -1,0 +1,15 @@
+C:\Users\Dell\source\repos\C#_BootCamp_301\C#_BootCamp_301_BusinessLayer\bin\Debug\C#_BootCamp_301_BusinessLayer.dll
+C:\Users\Dell\source\repos\C#_BootCamp_301\C#_BootCamp_301_BusinessLayer\bin\Debug\C#_BootCamp_301_BusinessLayer.pdb
+C:\Users\Dell\source\repos\C#_BootCamp_301\C#_BootCamp_301_BusinessLayer\bin\Debug\C#_BootCamp_301_DataAccessLayer.dll
+C:\Users\Dell\source\repos\C#_BootCamp_301\C#_BootCamp_301_BusinessLayer\bin\Debug\C#_BootCamp_301_EntityLayer.dll
+C:\Users\Dell\source\repos\C#_BootCamp_301\C#_BootCamp_301_BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Dell\source\repos\C#_BootCamp_301\C#_BootCamp_301_BusinessLayer\bin\Debug\C#_BootCamp_301_DataAccessLayer.pdb
+C:\Users\Dell\source\repos\C#_BootCamp_301\C#_BootCamp_301_BusinessLayer\bin\Debug\C#_BootCamp_301_DataAccessLayer.dll.config
+C:\Users\Dell\source\repos\C#_BootCamp_301\C#_BootCamp_301_BusinessLayer\bin\Debug\C#_BootCamp_301_EntityLayer.pdb
+C:\Users\Dell\source\repos\C#_BootCamp_301\C#_BootCamp_301_BusinessLayer\bin\Debug\C#_BootCamp_301_EntityLayer.dll.config
+C:\Users\Dell\source\repos\C#_BootCamp_301\C#_BootCamp_301_BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Dell\source\repos\C#_BootCamp_301\C#_BootCamp_301_BusinessLayer\obj\Debug\C#_BootCamp_301_BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\C#_BootCamp_301\C#_BootCamp_301_BusinessLayer\obj\Debug\C#_BootCamp_301_BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\C#_BootCamp_301\C#_BootCamp_301_BusinessLayer\obj\Debug\C#_BootC.036F6C21.Up2Date
+C:\Users\Dell\source\repos\C#_BootCamp_301\C#_BootCamp_301_BusinessLayer\obj\Debug\C#_BootCamp_301_BusinessLayer.dll
+C:\Users\Dell\source\repos\C#_BootCamp_301\C#_BootCamp_301_BusinessLayer\obj\Debug\C#_BootCamp_301_BusinessLayer.pdb

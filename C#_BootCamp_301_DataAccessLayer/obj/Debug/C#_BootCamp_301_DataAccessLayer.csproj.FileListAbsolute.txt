@@ -13,6 +13,3 @@ C:\Users\Dell\source\repos\C#_BootCamp_301\C#_BootCamp_301_DataAccessLayer\obj\D
 C:\Users\Dell\source\repos\C#_BootCamp_301\C#_BootCamp_301_DataAccessLayer\obj\Debug\C#_BootC.91566E03.Up2Date
 C:\Users\Dell\source\repos\C#_BootCamp_301\C#_BootCamp_301_DataAccessLayer\obj\Debug\C#_BootCamp_301_DataAccessLayer.dll
 C:\Users\Dell\source\repos\C#_BootCamp_301\C#_BootCamp_301_DataAccessLayer\obj\Debug\C#_BootCamp_301_DataAccessLayer.pdb
-C:\Users\Dell\source\repos\C#_BootCamp_301\C#_BootCamp_301_DataAccessLayer\obj\Debug\C__BootCamp_301_DataAccessLayer.Migrations.mig1.resources
-C:\Users\Dell\source\repos\C#_BootCamp_301\C#_BootCamp_301_DataAccessLayer\obj\Debug\C#_BootCamp_301_DataAccessLayer.csproj.GenerateResource.cache
-C:\Users\Dell\source\repos\C#_BootCamp_301\C#_BootCamp_301_DataAccessLayer\obj\Debug\C__BootCamp_301_DataAccessLayer.Migrations.mig2.resources

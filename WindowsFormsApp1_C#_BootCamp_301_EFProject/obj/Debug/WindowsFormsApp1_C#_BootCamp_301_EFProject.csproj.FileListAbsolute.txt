@@ -1,0 +1,17 @@
+C:\Users\Dell\source\repos\C#_BootCamp_301\WindowsFormsApp1_C#_BootCamp_301_EFProject\bin\Debug\WindowsFormsApp1_C#_BootCamp_301_EFProject.exe.config
+C:\Users\Dell\source\repos\C#_BootCamp_301\WindowsFormsApp1_C#_BootCamp_301_EFProject\bin\Debug\WindowsFormsApp1_C#_BootCamp_301_EFProject.exe
+C:\Users\Dell\source\repos\C#_BootCamp_301\WindowsFormsApp1_C#_BootCamp_301_EFProject\bin\Debug\WindowsFormsApp1_C#_BootCamp_301_EFProject.pdb
+C:\Users\Dell\source\repos\C#_BootCamp_301\WindowsFormsApp1_C#_BootCamp_301_EFProject\bin\Debug\EntityFramework.dll
+C:\Users\Dell\source\repos\C#_BootCamp_301\WindowsFormsApp1_C#_BootCamp_301_EFProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dell\source\repos\C#_BootCamp_301\WindowsFormsApp1_C#_BootCamp_301_EFProject\bin\Debug\EntityFramework.xml
+C:\Users\Dell\source\repos\C#_BootCamp_301\WindowsFormsApp1_C#_BootCamp_301_EFProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dell\source\repos\C#_BootCamp_301\WindowsFormsApp1_C#_BootCamp_301_EFProject\obj\Debug\WindowsFormsApp1_C#_BootCamp_301_EFProject.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\C#_BootCamp_301\WindowsFormsApp1_C#_BootCamp_301_EFProject\obj\Debug\WindowsFormsApp1_C__BootCamp_301_EFProject.Form1.resources
+C:\Users\Dell\source\repos\C#_BootCamp_301\WindowsFormsApp1_C#_BootCamp_301_EFProject\obj\Debug\WindowsFormsApp1_C__BootCamp_301_EFProject.Properties.Resources.resources
+C:\Users\Dell\source\repos\C#_BootCamp_301\WindowsFormsApp1_C#_BootCamp_301_EFProject\obj\Debug\WindowsFormsApp1_C#_BootCamp_301_EFProject.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\C#_BootCamp_301\WindowsFormsApp1_C#_BootCamp_301_EFProject\obj\Debug\WindowsFormsApp1_C#_BootCamp_301_EFProject.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\C#_BootCamp_301\WindowsFormsApp1_C#_BootCamp_301_EFProject\obj\Debug\WindowsF.8FFCB575.Up2Date
+C:\Users\Dell\source\repos\C#_BootCamp_301\WindowsFormsApp1_C#_BootCamp_301_EFProject\obj\Debug\WindowsFormsApp1_C#_BootCamp_301_EFProject.exe
+C:\Users\Dell\source\repos\C#_BootCamp_301\WindowsFormsApp1_C#_BootCamp_301_EFProject\obj\Debug\WindowsFormsApp1_C#_BootCamp_301_EFProject.pdb
+C:\Users\Dell\source\repos\C#_BootCamp_301\WindowsFormsApp1_C#_BootCamp_301_EFProject\obj\Debug\WindowsFormsApp1_C__BootCamp_301_EFProject.FrmLocation.resources
+C:\Users\Dell\source\repos\C#_BootCamp_301\WindowsFormsApp1_C#_BootCamp_301_EFProject\obj\Debug\WindowsFormsApp1_C__BootCamp_301_EFProject.FrmStatistic.resources

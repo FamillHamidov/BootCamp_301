@@ -41,12 +41,25 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Abstract\ICategoryService.cs" />
+    <Compile Include="Abstract\ICustomerService.cs" />
+    <Compile Include="Abstract\IGenericService.cs" />
+    <Compile Include="Abstract\IOrderService.cs" />
+    <Compile Include="Abstract\IProductService.cs" />
+    <Compile Include="Concrete\CategoryManager.cs" />
+    <Compile Include="Concrete\CustomerManager.cs" />
+    <Compile Include="Concrete\OrderManager.cs" />
+    <Compile Include="Concrete\ProductManager.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\C#_BootCamp_301_DataAccessLayer\C#_BootCamp_301_DataAccessLayer.csproj">
       <Project>{88c9b7f0-9ed8-4291-9b8a-26be423416f4}</Project>
       <Name>C#_BootCamp_301_DataAccessLayer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\C#_BootCamp_301_EntityLayer\C#_BootCamp_301_EntityLayer.csproj">
+      <Project>{099C856F-301B-4C59-A836-95656816A16B}</Project>
+      <Name>C#_BootCamp_301_EntityLayer</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

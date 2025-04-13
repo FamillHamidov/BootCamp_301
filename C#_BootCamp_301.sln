@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C#_BootCamp_301_BusinessLay
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C#_BootCamp_301_PresentationLayer", "C#_BootCamp_301_PresentationLayer\C#_BootCamp_301_PresentationLayer.csproj", "{7EDDB2C2-4A82-463D-9716-91C1106E3717}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp1_C#_BootCamp_301_EFProject", "WindowsFormsApp1_C#_BootCamp_301_EFProject\WindowsFormsApp1_C#_BootCamp_301_EFProject.csproj", "{274CD0EE-50B2-47AB-8AC5-A988A074367B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{7EDDB2C2-4A82-463D-9716-91C1106E3717}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7EDDB2C2-4A82-463D-9716-91C1106E3717}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7EDDB2C2-4A82-463D-9716-91C1106E3717}.Release|Any CPU.Build.0 = Release|Any CPU
+		{274CD0EE-50B2-47AB-8AC5-A988A074367B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{274CD0EE-50B2-47AB-8AC5-A988A074367B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{274CD0EE-50B2-47AB-8AC5-A988A074367B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{274CD0EE-50B2-47AB-8AC5-A988A074367B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -9,5 +9,6 @@ namespace C__BootCamp_301_DataAccessLayer.Abstract
 {
     public interface IProductDal:IGenericDal<Product>
     {
+        List<object> GetProductWithCategory();
     }
 }

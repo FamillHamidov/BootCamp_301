@@ -56,14 +56,26 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form1.cs">
+    <Compile Include="FrmProduct.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="FrmProduct.Designer.cs">
+      <DependentUpon>FrmProduct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCategory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCategory.Designer.cs">
+      <DependentUpon>FrmCategory.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FrmCategory.resx">
+      <DependentUpon>FrmCategory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmProduct.resx">
+      <DependentUpon>FrmProduct.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -91,6 +103,14 @@
     <ProjectReference Include="..\C#_BootCamp_301_BusinessLayer\C#_BootCamp_301_BusinessLayer.csproj">
       <Project>{87967a10-eaf9-41d2-b6b3-5f6f8edd6a0d}</Project>
       <Name>C#_BootCamp_301_BusinessLayer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\C#_BootCamp_301_DataAccessLayer\C#_BootCamp_301_DataAccessLayer.csproj">
+      <Project>{88C9B7F0-9ED8-4291-9B8A-26BE423416F4}</Project>
+      <Name>C#_BootCamp_301_DataAccessLayer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\C#_BootCamp_301_EntityLayer\C#_BootCamp_301_EntityLayer.csproj">
+      <Project>{099C856F-301B-4C59-A836-95656816A16B}</Project>
+      <Name>C#_BootCamp_301_EntityLayer</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
